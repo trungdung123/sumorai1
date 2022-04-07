@@ -20,6 +20,7 @@ public class Sumorai {
     public static void inputProfile() {
         String name, address;
         int yob;
+        // Thêm tính năng 
         java.util.Scanner sc = new java.util.Scanner(System.in);
         System.out.println("\t\tNhập Dữ Liệu Thông tin");
         System.out.print("Họ tên:");
